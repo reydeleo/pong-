@@ -4,7 +4,7 @@
 //
 //  Created by reynaldo deleo on 7/29/17.
 //  Copyright © 2017 reynaldo deleo. All rights reserved.
-//
+//aa
 
 import SpriteKit
 import GameplayKit
@@ -342,7 +342,6 @@ class GameScene: SKScene {
             checkingHorizontalBall(yPosition: ball.position.y)
 //            print(ball.position)
             
-        
             break
         case .Medium:
             
